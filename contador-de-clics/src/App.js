@@ -1,5 +1,5 @@
 import './App.css';
-import freeCodeCampLogo from './imagenes/fcc-logo.jpeg';
+import freeCodeCampLogo from './imagenes/freecodecamp.svg';
 import Boton from './componentes/Boton'
 import Contador from './componentes/Contador';
 import { useState } from 'react';
